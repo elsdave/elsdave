@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Els</h1>
 <h3 align="center">A lost student trying his best. (Or so I think)</h3>
-<img align= "center" alt="Coding" width="400" src="https://64.media.tumblr.com/60c3020af033fb4503a61742ccf84bce/tumblr_nh10aw86Rq1qza1qzo1_500.gif">
+<img align= "right" alt="Coding" width="400" src="https://64.media.tumblr.com/60c3020af033fb4503a61742ccf84bce/tumblr_nh10aw86Rq1qza1qzo1_500.gif">
 
 - 🌱 I’m currently learning **Java, Python, C#, C++**
 
