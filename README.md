@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Els</h1>
-<h3 align="center">Comsci student trying his best. (Or so I think)</h3>
+<h3 align="center">Comsci student trying his best.</h3>
 <img align= "right" alt="Coding" width="400" src="https://64.media.tumblr.com/60c3020af033fb4503a61742ccf84bce/tumblr_nh10aw86Rq1qza1qzo1_500.gif">
 
 - 🌱 I’m currently learning **Java, Python, C#, C++**
@@ -11,7 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/els-dave-constantino-a09156271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="els-dave-constantino-a09156271" height="30" width="40" /></a>
-<a href="https://instagram.com/els.dve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="els.dve" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
